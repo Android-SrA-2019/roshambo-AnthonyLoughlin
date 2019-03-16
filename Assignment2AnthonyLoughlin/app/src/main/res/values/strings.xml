@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment2AnthonyLoughlin</string>
+    <string name="Result_Text">Win/Lose/Draw</string>
+    <string name="games_move">Games Move</string>
+    <string name="your_move">Your Move</string>
+    <string name="rock_Description">Rock</string>
+    <string name="paper_Description">Paper</string>
+    <string name="scissors_Description">Scissors</string>
+    <string name="your_choice_description">Your Choice</string>
+    <string name="computers_choice_description">Computers Choice</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="draw">Draw</string>
+</resources>
